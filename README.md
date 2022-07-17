@@ -1,4 +1,4 @@
-Starter kit for writing web services in Go.
+Starter kit for writing services in Go.
 # Requirements
 - [Golang](https://go.dev/)
 - [Docker](https://www.docker.com/)

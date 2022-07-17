@@ -1,5 +1,8 @@
+# **Kit**
+
 Starter kit for writing services in Go.
-# Requirements
+
+## Requirements
 - [Golang](https://go.dev/)
 - [Docker](https://www.docker.com/)
 - [Staticcheck](https://staticcheck.io/docs)
